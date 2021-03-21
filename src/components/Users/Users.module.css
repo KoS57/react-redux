@@ -1,0 +1,17 @@
+.item{
+    background-color: burlywood;
+    color:white;
+}
+.foto{
+height: 100px;
+width: 100px;
+}
+.selectPage{
+font-weight: bold;
+
+
+}
+.text{
+    color:black;
+    cursor:default;
+}
